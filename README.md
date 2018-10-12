@@ -6,7 +6,7 @@ This is a simple implementation of mining(Similar to that of Bitcoin mining) wri
  A hash function is a mathematical function that converts a numerical input value into another compressed numerical value. The   input to the hash function is of arbitrary length but output is always of fixed length.
  ![](/img/hash.png)
 <h4>Features of Hash Function</h4>
- * Fixed Length Output(Hash Value).
+ * Fixed Length Output(Hash Value).<br>
  * Efficiency of Operation.
 
 <h2> What do mining actually mean</h2>
@@ -23,6 +23,6 @@ input = object.hexdigest()
 ```
 
 <h2>Requirements :</h2>
-1. matplotlib
+1. matplotlib<br>
 2. hashlib
 
